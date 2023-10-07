@@ -1,0 +1,52 @@
+h1 {
+    color:red;
+}
+
+h1 {
+    font-weight:700;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 13px;
+    background-color: aquamarine;
+}
+
+span{
+    color: blueviolet;
+}
+
+.container {
+    box-shadow: darkcyan;
+}
+
+#judul1 {
+    font-weight: 800;
+    color: burlywood;
+    text-decoration: underline;
+}
+
+#judul2 {
+    font-weight: 800;
+    color: chocolate;
+}
+
+.content {
+    background: darksalmon;
+}
+
+.box{
+    background-color: beige;
+}
+
+.box a {
+    background-color: aquamarine;
+    color:black
+    font-size: 20px;
+    size
+}
+
+.box:hover {
+    background-color:peru
+
+}
