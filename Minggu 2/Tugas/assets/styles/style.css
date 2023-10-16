@@ -39,6 +39,7 @@ body {
 .navbar .nav a:hover{
     color: mediumaquamarine;
     transition: 0.5s;
+    border-bottom: 3px solid #000;
 }
 
 /* BAGIAN HOME */
